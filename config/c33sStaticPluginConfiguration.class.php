@@ -4,7 +4,7 @@
  * 
  * @package     c33sStaticPlugin
  * @subpackage  config
- * @author      jp
+ * @author      c33s
  * @version     SVN: $Id: PluginConfiguration.class.php 17207 2009-04-10 15:36:26Z Kris.Wallsmith $
  */
 
