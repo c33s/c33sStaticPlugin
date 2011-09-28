@@ -47,14 +47,14 @@ class c33sStaticRouting
 		$r = $event->getSubject();
 		
 
-		if (c33sTools::isModuleEnabled('c33sStatic'))
-		{
+		//if (c33sTools::isModuleEnabled('c33sStatic'))
+		//{
 			$r->appendRoute('c33s_static_show', new sfRequestRoute(
 				'/:name.:sf_format',
 				array('module' => 'c33sStatic', 'action' => 'show', 'sf_format' => 'html'),
 				array('name' => '[a-zA-Z0-9\-\_]+')
 				//array('sf_culture' =>  RouteRoute::getCulturePattern())
 			));
-		}
+		//}
 	}
 }
