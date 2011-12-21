@@ -1,7 +1,7 @@
 <?php
 /**
  * c33sStaticPlugin configuration.
- * 
+ *
  * @package     c33sStaticPlugin
  * @subpackage  config
  * @author      c33s

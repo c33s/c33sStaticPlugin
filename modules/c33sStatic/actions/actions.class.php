@@ -4,7 +4,7 @@ require_once dirname(__FILE__).'/../lib/Basec33sStaticActions.class.php';
 
 /**
  * c33sStatic actions.
- * 
+ *
  * @package    c33sStaticPlugin
  * @subpackage c33sStatic
  * @author     c33s
@@ -37,7 +37,7 @@ class c33sStaticActions extends Basec33sStaticActions
 		$this->setTemplate($templateName, $module);
 
 		$this->forward404Unless($path);
-		
+
 		return '';
 	}
 }

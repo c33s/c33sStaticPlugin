@@ -33,7 +33,7 @@ class c33sStaticRouting
 	{
 		$this->dispatcher = $dispatcher;
 	}
-	
+
 	/**
 	 * Adds the routes for c33sStaticPlugin.
 	 *
@@ -45,7 +45,7 @@ class c33sStaticRouting
 	{
 		/* @var $r sfPatternRouting */
 		$r = $event->getSubject();
-		
+
 
 		//if (c33sTools::isModuleEnabled('c33sStatic'))
 		//{

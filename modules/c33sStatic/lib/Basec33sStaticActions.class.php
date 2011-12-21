@@ -2,7 +2,7 @@
 
 /**
  * Base actions for the c33sStaticPlugin c33sStatic module.
- * 
+ *
  * @package     c33sStaticPlugin
  * @subpackage  c33sStatic
  * @author      c33s
