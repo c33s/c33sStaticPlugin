@@ -1,6 +1,9 @@
 c33sStaticPlugin
 ====================
 
+[![project status](http://stillmaintained.com/c33s/c33sStaticPlugin.png)](http://stillmaintained.com/c33s/c33sStaticPlugin)
+
+
 c33sStaticPlugin provides an easy way to serve static pages. The plugin is based upon http://trac.symfony-project.org/wiki/HowtoServeStaticContent
 
 
